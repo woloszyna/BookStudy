@@ -9,8 +9,8 @@ class Methods_Vehicle {
     int mpg; //miles per gallon
 
     //Within the class, we can also create a method (also called function)
-//2. So this time (from Lessons._04_ChapterFour.HowObjectsAreCreated.Vehicle) rather than performing operation in
-//the main class, we can actually perform all actions in the method.
+    //2. So this time (from Lessons._04_ChapterFour.HowObjectsAreCreated.Vehicle) rather than performing operation in
+    //the main class, we can actually perform all actions in the method.
 
     //void return type = does not return any value.
     void range() {
